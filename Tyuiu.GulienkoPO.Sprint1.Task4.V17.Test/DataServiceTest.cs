@@ -1,4 +1,5 @@
 using Tyuiu.GulienkoPO.Sprint1.Task4.V17.Lib;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Tyuiu.GulienkoPO.Sprint1.Task4.V17.Test
 {
